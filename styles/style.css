@@ -1,0 +1,47 @@
+body{
+    @import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Ojuju:wght@200..800&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap')
+}
+nav{
+    margin: 20px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+main{
+    width: 100%;
+    background-color: rgb(238, 237, 236);
+    padding-bottom: 40px;
+}
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+ .container .button{
+    float: right;
+    margin-top: 12px;
+    background-color: #000000;
+    border: none;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+} 
+.heading{
+    padding-top: 10px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}  
+ 
+ td,th{
+    border: 2px solid #cac8c8;
+ }
+ footer{
+    text-align: center;
+ }
+       
+ 
+
